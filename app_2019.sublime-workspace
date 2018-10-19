@@ -183,7 +183,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 11738,
+				"buffer_size": 26697,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -303,9 +303,7 @@
 	"expanded_folders":
 	[
 		"/Users/ernestbrugger/app_2019 2",
-		"/Users/ernestbrugger/app_2019 2/assets",
-		"/Users/ernestbrugger/app_2019 2/assets/sass",
-		"/Users/ernestbrugger/app_2019 2/assets/sass/libs"
+		"/Users/ernestbrugger/app_2019 2/js"
 	],
 	"file_history":
 	[
@@ -440,7 +438,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -677,15 +675,348 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11738,
+						"buffer_size": 26697,
 						"regions":
 						{
+							"col_36A2EB33":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7652,
+										7675
+									]
+								],
+								"scope": "col_36A2EB33"
+							},
+							"col_36A2EB33_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_36A2EB33_circle.png",
+								"regions":
+								[
+									[
+										7635,
+										7635
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_36A2EBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7947,
+										7968
+									]
+								],
+								"scope": "col_36A2EBFF"
+							},
+							"col_36A2EBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_36A2EBFF_circle.png",
+								"regions":
+								[
+									[
+										7930,
+										7930
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4BC0C033":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7738,
+										7761
+									]
+								],
+								"scope": "col_4BC0C033"
+							},
+							"col_4BC0C033_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4BC0C033_circle.png",
+								"regions":
+								[
+									[
+										7721,
+										7721
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4BC0C0FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8029,
+										8050
+									]
+								],
+								"scope": "col_4BC0C0FF"
+							},
+							"col_4BC0C0FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4BC0C0FF_circle.png",
+								"regions":
+								[
+									[
+										8012,
+										8012
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9966FF33":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7781,
+										7805
+									]
+								],
+								"scope": "col_9966FF33"
+							},
+							"col_9966FF33_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9966FF33_circle.png",
+								"regions":
+								[
+									[
+										7764,
+										7764
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9966FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8070,
+										8092
+									]
+								],
+								"scope": "col_9966FFFF"
+							},
+							"col_9966FFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9966FFFF_circle.png",
+								"regions":
+								[
+									[
+										8053,
+										8053
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF638433":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7609,
+										7632
+									]
+								],
+								"scope": "col_FF638433"
+							},
+							"col_FF638433_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF638433_circle.png",
+								"regions":
+								[
+									[
+										7592,
+										7592
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF6384FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7909,
+										7927
+									]
+								],
+								"scope": "col_FF6384FF"
+							},
+							"col_FF6384FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF6384FF_circle.png",
+								"regions":
+								[
+									[
+										7892,
+										7892
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF9F4033":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7825,
+										7848
+									]
+								],
+								"scope": "col_FF9F4033"
+							},
+							"col_FF9F4033_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF9F4033_circle.png",
+								"regions":
+								[
+									[
+										7808,
+										7808
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF9F40FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8112,
+										8133
+									]
+								],
+								"scope": "col_FF9F40FF"
+							},
+							"col_FF9F40FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF9F40FF_circle.png",
+								"regions":
+								[
+									[
+										8095,
+										8095
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFCE5633":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7695,
+										7718
+									]
+								],
+								"scope": "col_FFCE5633"
+							},
+							"col_FFCE5633_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFCE5633_circle.png",
+								"regions":
+								[
+									[
+										7678,
+										7678
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFCE56FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7988,
+										8009
+									]
+								],
+								"scope": "col_FFCE56FF"
+							},
+							"col_FFCE56FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFCE56FF_circle.png",
+								"regions":
+								[
+									[
+										7971,
+										7971
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2371,
+										2378
+									],
+									[
+										2492,
+										2499
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										2321,
+										2321
+									],
+									[
+										2454,
+										2454
+									]
+								],
+								"scope": "col_gutter"
+							}
 						},
 						"selection":
 						[
 							[
-								11291,
-								11291
+								18742,
+								18742
 							]
 						],
 						"settings":
@@ -709,41 +1040,26 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -754,6 +1070,16 @@
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -763,7 +1089,12 @@
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -782,41 +1113,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -827,6 +1143,16 @@
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -836,13 +1162,22 @@
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"incomplete_sync": null,
-							"syntax": "Packages/Liquid/Syntaxes/Liquid-HTML.sublime-syntax"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Liquid/Syntaxes/Liquid-HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3600.0,
+						"translation.y": 5576.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -986,7 +1321,7 @@
 		[
 			[
 				"",
-				"~/Documents/eliteart/RF_registr_new_site_16/RF_registr_site.sublime-project"
+				"~/RDKM_Kazyan_2/RDKM_Kazyan_2.sublime-project"
 			]
 		],
 		"width": 712.0

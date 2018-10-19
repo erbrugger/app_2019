@@ -308,6 +308,7 @@
 }
 .icon-image:before {
     content: "\e95e";
+    color: rgba(206, 0, 11, 1);
 }
 .icon-info:before {
     content: "\e95f";
